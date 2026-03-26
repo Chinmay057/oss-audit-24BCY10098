@@ -1,0 +1,9 @@
+I, Chinmay Patil, believe in the power of Free and Open Source Software (FOSS).
+I use Python daily for scripting, automation, data analysis, and web development.
+Ubuntu is my primary OS — it gives me a powerful terminal, full customization, and privacy.
+I rely on FOSS tools like Git, VS Code, Firefox, LibreOffice, Docker, and Wireshark every day.
+Open source taught me to learn freely, build transparently, and share openly.
+I commit to contributing back to the community through code, documentation, and knowledge sharing.
+Technology should be free, accessible, and open to all.
+
+— Chinmay Patil, March 2026
